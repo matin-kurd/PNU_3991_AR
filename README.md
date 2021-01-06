@@ -8,7 +8,7 @@
 - [resume](https://matin-kurd.github.io/)
 - [SOP](https://matin-kurd.github.io/SOP/) 
 - [javascript Certificate]()
-- [jlord patchwork]()
+- [jlord patchwork](jlord.png)
   
 
 ------------------
