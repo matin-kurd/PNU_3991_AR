@@ -64,16 +64,16 @@
      <th></th>
      <th>مدار منطقی</th>
      <th></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحي واسط كاربر</a></th>
-     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و كامپيوتر</a></th>
+     <th>روش پژوهش و ارائه</th>
+     <th></th>
      <th>اندیشه اسلامی</th>   
     <th>دوشنبه</th>
   </tr>
    <tr>
     <th></th>
-    <th>مطالعه درسی</th>
     <th></th>
-    <th>مطالعه غیر درسی</th>
+    <th></th>
+    <th></th>
     <th></th>
     <th></th>
     <th>سه شنبه</th>
@@ -91,8 +91,8 @@
     <th></th>
     <th></th>
     <th></th>
-    <th>جمع بندی هفتگی</th>
-    <th>جمع بندی هفتگی</th>
+    <th></th>
+    <th></th>
     <th></th>
     <th>پنج شنبه</th>
   </tr>
