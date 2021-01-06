@@ -3,13 +3,12 @@
 ### میرمحمد کمالی
  
 ---
-- [github](https://github.com/mir-mohammad/)
-- [PNU_3991_AR](https://github.com/mir-mohammad/PNU_3991_AR)
-- [resume](https://mir-mohammad.github.io/)
-- [SOP](https://mir-mohammad.github.io/SOP/) 
-- [javascript Certificate](JS.jpg)
-- [HTML Certificate](html.jpg)
-- [jlord patchwork](jlord.png)
+- [github](https://github.com/matin-kurd)
+- [PNU_3991_AR](https://github.com/matin-kurd/PNU_3991_AR)
+- [resume](https://matin-kurd.github.io/)
+- [SOP](https://matin-kurd.github.io/SOP/) 
+- [javascript Certificate]()
+- [jlord patchwork]()
   
 
 ------------------
