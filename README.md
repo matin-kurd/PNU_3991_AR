@@ -16,17 +16,13 @@
 
 ## دروس کارشناسی
 
-[1115157_01   نظريه زبانهاوماشين ها ](https://github.com/mir-mohammad/PNU_3991_AR1/tree/main/Theory-of-Languages-and-Machines)
+روش پژوهش و ارائه
 <br>
-[1322108_01 تعامل انسان و كامپيوتر ](https://github.com/mir-mohammad/PNU_3991_AR1/tree/main/HumanComputerInteraction)
+مدار های منطقی 
 <br>
-[1322110_01 طراحي واسط كاربر ](https://github.com/mir-mohammad/PNU_3991_AR1/tree/main/UserInterfaceDesgin)
+ اصول طراحی کامپایلر 
 <br>
-[1115139-01 مدار های منطقی ]
-<br>
-[1115080-01 اصول طراحی کامپایلر ]
-<br>
-[1233025-05 اندیشه اسلامی ]
+اندیشه اسلامی 
 
 --------------
 
@@ -46,7 +42,7 @@
     <th>اصول طراحی کامپایلر</th>
     <th></th>
     <th>مطالعه درسی</th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >نظريه زبانهاوماشين ها 01-1115157</a></th>
+    <th></th>
     <th></th>
     <th></th>
     <th>شنبه</th>
